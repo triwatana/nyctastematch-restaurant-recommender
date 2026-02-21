@@ -1,0 +1,349 @@
+,name,average_review,review_count,price_range,street_address,restaurant_type
+0,Smoke Jazz and Supper Club,4.42155,2155,$31 to $50,"2751 Broadway New York, NY  10025",Contemporary American
+1,Tavern on the Green,4.67029,7029,$31 to $50,"1 Tavern on the Green New York, NY  10023",American
+2,ABC Kitchen,4.76031,6031,$31 to $50,"35 East 18th Street New York, NY  10003",Contemporary American
+3,Catch New York,4.5483,4830,$31 to $50,"21 Ninth Avenue New York, NY  10014",Seafood
+4,Becco,4.418139,18139,$30 and under,"355 West 46th Street New York, NY  10010",Italian
+5,Estiatorio Milos - NY,4.84404,4404,$50 and over,"125 West 55th Street New York, NY  10019",Seafood
+6,Tao Uptown,4.6106,10600,$31 to $50,"42 East 58th Street New York, NY  10022",Asian
+7,Red Rooster Harlem,4.45682,5682,$31 to $50,"310 Lenox Avenue New York, NY  10027",Southern
+8,Del Frisco's Double Eagle Steak House - New York City,4.77225,7225,$50 and over,"1221 Avenue of the Americas New York, NY  10020",Steakhouse
+9,FIG & OLIVE Fifth Avenue,4.57186,7186,$31 to $50,"10 East 52nd Street New York, NY  10021",Mediterranean
+10,Rosa Mexicano by Lincoln Center,4.46215,6215,$31 to $50,"61 Columbus Avenue New York, NY  10023",Mexican
+11,ABC Cocina,4.72171,2171,$30 and under,"38 East 19th Street New York, NY  10003",Tapas / Small Plates
+12,Gallaghers Steakhouse - Manhattan,4.6502,5020,$50 and over,"228 West 52nd Street New York, NY  10019",Steakhouse
+13,Boulud Sud,4.64853,4853,$50 and over,"20 West 64th Street New York, NY  10023",Mediterranean
+14,Nougatine at Jean Georges,4.65918,5918,$31 to $50,"1 Central Park West New York, NY  10023",French
+15,Sarabeth's Central Park South,4.4357,3570,$30 and under,"40 Central Park South New York, NY  10019",American
+16,Tao Downtown,4.62291,2291,$50 and over,"92 Ninth Ave New York, NY  10011",Pan-Asian
+17,ilili,4.64981,4981,$31 to $50,"236 Fifth Avenue New York, NY  10001",Lebanese
+18,Scarpetta,4.63829,3829,$31 to $50,"88 Madison Ave New York, NY  10016",Italian
+19,Atlantic Grill Near Lincoln Center,4.45246,5246,$31 to $50,"49 West 64th St. New York, NY  10023",Seafood
+20,Empellon Midtown,4.6502,502,$31 to $50,"Empellon 510 Madison Avenue New York, NY  10022",Contemporary Mexican
+21,Ocean Prime - New York,4.71701,1701,$31 to $50,"123 West 52nd Street New York, NY  10019",Seafood
+22,Sarabeth's West,4.51471,1471,$30 and under,"423 Amsterdam Avenue New York, NY  10024",American
+23,STK - NYC - Midtown,4.52678,2678,$31 to $50,"1114 Avenue of the Americas New York, NY  10036",Steakhouse
+24,Toloache-Midtown,4.55178,5178,$30 and under,"251 West 50th Street New York, NY  10012",Mexican
+25,Blue Fin - New York,4.36558,6558,$31 to $50,"1567 Broadway at 47th Street W Hotel Times Square New York, NY  10036",Seafood
+26,Bar Boulud,4.46814,6814,$30 and under,"1900 Broadway New York, NY  10023",French
+27,Hakkasan - New York,4.62492,2492,$50 and over,"311 West 43rd Street New York, NY  10036",Chinese
+28,Lincoln Ristorante,4.64697,4697,$31 to $50,"142 West 65th St. New York, NY  10023",Italian
+29,Café Boulud,4.65194,5194,$50 and over,"20 East 76th St. New York, NY  10021",French
+30,The View Restaurant,4.310389,10389,$31 to $50,"1535 Broadway New York, NY  10036",Contemporary American
+31,Park Avenue Spring,4.61837,1837,$31 to $50,"360 Park Avenue South New York, NY  10010",American
+32,Zuma Japanese Restaurant - NY,4.7678,678,$50 and over,"261 Madison Avenue New York, NY  10016",Japanese
+33,La Pecora Bianca - NoMad,4.6911,911,$30 and under,"1133 Broadway New York, NY  10010",Italian
+34,La Pecora Bianca - Midtown,4.5288,288,$30 and under,"950 2nd Avenue New York, NY  10022",Italian
+35,Calle Ocho,4.33465,3465,$31 to $50,"45 West 81st Street inside the Excelsior Hotel New York, NY  10024",Latin American
+36,Sarabeth's Park Avenue South,4.51604,1604,$30 and under,"381 Park Ave South New York, NY  10013",American
+37,Lavo - NYC,4.62317,2317,$50 and over,"39 East 58th Street New York, NY  10022",Italian
+38,La Masseria,4.63664,3664,$31 to $50,"235 West 48th Street New York, NY  10036",Italian
+39,Lido,4.51047,1047,$30 and under,"2168 Frederick Douglass Blvd. New York, NY  10026",Italian
+40,Ristorante Morini,4.6119,1190,$31 to $50,"1167 Madison Avenue New York, NY  10020",Italian
+41,Morimoto New York,4.65894,5894,$50 and over,"88 10th Avenue New York, NY  10011",Japanese
+42,Aureole,4.53346,3346,$31 to $50,"135 West 42nd Street New York, NY  10036",American
+43,Fogo de Chao Brazilian Steakhouse - New York,4.61772,1772,$50 and over,"40 W 53rd Street New York, NY  10019",Brazilian Steakhouse
+44,Limani - NYC,4.61406,1406,$50 and over,"45 Rockefeller Plaza New York, NY  10011",Mediterranean
+45,Ai Fiori,4.63794,3794,$31 to $50,"400 5th Avenue New York, NY  10018",Contemporary European
+46,Philippe,4.62018,2018,$31 to $50,"33 East 60th Street New York, NY  10065",Chinese
+47,'Cesca,4.12749,2749,$31 to $50,"164 W. 75th St. New York, NY  10024",Italian
+48,Butter Midtown,4.23135,3135,$31 to $50,"70 West 45th New York, NY  10036",Contemporary American
+49,Smith & Wollensky - New York,4.56405,6405,$50 and over,"797 Third Avenue New York, NY  10022",Steakhouse
+50,Orsay,4.51899,1899,$31 to $50,"1057-59 Lexington Avenue New York, NY  10021",French
+51,Nice Matin,4.4214,2140,$31 to $50,"201 West 79th Street New York, NY  10024",French
+52,db Bistro moderne,4.46428,6428,$31 to $50,"55 West 44th Street New York, NY  10036",French
+53,The Capital Grille - NY – Time Life Building,4.73338,3338,$50 and over,"120 West 51st Street, Time Life Bldg. New York, NY  10020",Steakhouse
+54,FIG & OLIVE Meatpacking,4.65752,5752,$31 to $50,"420 West 13th Street New York, NY  10014",Mediterranean
+55,Barbounia,4.62279,2279,$30 and under,"250 Park Ave South New York, NY  10003",Mediterranean
+56,Kellari Taverna,4.45209,5209,$31 to $50,"19 West 44th Street New York, NY  10036",Greek
+57,Craft,4.75098,5098,$50 and over,"43 E. 19th St. New York, NY  10003",American
+58,Almond,4.62137,2137,$31 to $50,"12 East 22nd Street New York, NY  10010",Farm-to-table
+59,Dos Caminos - Times Square,4.3877,877,$31 to $50,"1567 Broadway W Hotel Times Square New York, NY  10036",Mexican
+60,Momofuku Nishi,4.5493,493,$31 to $50,"232 8th Ave New York, NY  10011",Contemporary American
+61,Felidia,4.74613,4613,$31 to $50,"243 E. 58th New York, NY  10022",Italian
+62,Rosa Mexicano - Union Square,4.53966,3966,$31 to $50,"9 E. 18th St. New York, NY  10003",Mexican
+63,Taboon,4.71545,1545,$50 and over,"773 10th Avenue New York, NY  10019",Middle Eastern
+64,Bocca Di Bacco (Theatre District - 45th St.),4.41957,1957,$30 and under,"635 9th Avenue New York, NY  10036",Italian
+65,Rotisserie Georgette,4.71011,1011,$30 and under,"14 East 60th Street New York, NY  10022",French American
+66,The National Bar & Dining Rooms,4.42319,2319,$30 and under,"557 Lexington Ave New York, NY  10022",Contemporary American
+67,The Wayfarer,4.5626,626,$31 to $50,"101 West 57th St. New York, NY  10019",American
+68,The Dining Room at The Metropolitan Museum of Art,4.4939,939,$50 and over,"1000 5th Avenue in the Metropolitan Museum of Art New York, NY  10028",Contemporary American
+69,Il Mulino New York - Uptown,4.691,910,$50 and over,"37 East 60th New York, NY  10021",Italian
+70,Molyvos,4.44103,4103,$31 to $50,"871 7th Avenue New York, NY  10019",Greek
+71,Danji,4.7595,595,$31 to $50,"346 West 52nd Street New York, NY  10019",Korean
+72,Tommy Bahama - New York,4.61466,1466,$30 and under,"551 Fifth Avenue New York, NY  10176",American
+73,Marseille,4.45752,5752,$31 to $50,"630 Ninth Avenue New York, NY  10036",French
+74,Sarabeth's East,4.369,690,$30 and under,"1295 Madison Avenue New York, NY  10128",American
+75,The Capital Grille - NY – Chrysler Center,4.73491,3491,$50 and over,"155 E 42nd Street Located in the Trylon Towers of The Chrysler Center New York, NY  10017",Steakhouse
+76,Hunt & Fish Club NYC,4.61075,1075,$50 and over,"125 West 44th Street New York, NY  10036",Steakhouse
+77,Ammos Estiatorio,4.63773,3773,$31 to $50,"52 Vanderbilt Avenue New York, NY  10017",Seafood
+78,T-BAR Steak & Lounge (Upper East Side),4.6127,1270,$31 to $50,"1278 3rd Avenue New York, NY  10028",Steakhouse
+79,Bocca di Bacco (Hell's Kitchen - 54th St.),4.61627,1627,$30 and under,"828 9th Avenue New York, NY  10019",Italian
+80,The Clocktower,4.51019,1019,$50 and over,"5 Madison Ave. New York, NY  10010",English
+81,Masseria dei Vini,4.6119,1190,$31 to $50,"887-889 9th Ave. New York, NY  10019",Italian
+82,Lexington Brass,4.51089,1089,$31 to $50,"517 Lexington Avenue New York, NY  10017",American
+83,Serra by Birreria,4.21296,1296,$30 and under,"200 Fifth Avenue New York, NY  10010",Italian
+84,GAONNURI,4.5183,1830,$31 to $50,"1250 BROADWAY 39th Floor New York, NY  10001",Korean
+85,Obao,4.31702,1702,$31 to $50,"647 9th Avenue New York, NY  10036",Thai
+86,Remi,4.52206,2206,$31 to $50,"145 West 53rd Street New York, NY  10019",Italian
+87,Glass House Tavern,4.33642,3642,$31 to $50,"252 West 47th Street New York, NY  10036",Contemporary American
+88,Dos Caminos - Third Avenue,4.32396,2396,$31 to $50,"825 Third Avenue at 50th Street New York, NY  10022",Mexican
+89,Stella 34 Trattoria,4.41973,1973,$30 and under,"Macy’s at Herald Square 151 West 34th Street New York, NY  10001",Italian
+90,MR CHOW - 57th,4.6171,1710,$50 and over,"324 East 57th Street New York, NY  10022",Chinese
+91,Casa Lever,4.71092,1092,$50 and over,"390 Park Avenue New York, NY  10022",Italian
+92,Jams - NYC,4.4471,471,$30 and under,"1414 6th Avenue New York, NY  10019",American
+93,Ousia,4.5383,383,$31 to $50,"629 W 57th St New York, NY  10019",Mediterranean
+94,Rosa Mexicano - First Avenue,4.52015,2015,$31 to $50,"1063 1st Avenue New York, NY  10022",Mexican
+95,Red Cat,4.73209,3209,$31 to $50,"227 Tenth Avenue New York, NY  10011",American
+96,Ruth's Chris Steak House - New York City - Midtown,4.54233,4233,$31 to $50,"148 West 51st Street New York, NY  10019",Steakhouse
+97,Sea Fire Grill,4.61734,1734,$31 to $50,"158 East 48th Street New York, NY  10017",Seafood
+98,Blue Water Grill,4.55011,5011,$31 to $50,"31 Union Square West at 16th Street New York, NY  10003",Seafood
+99,Vaucluse,4.51078,1078,$31 to $50,"100 East 63rd Street New York, NY  10065",French
+100,LEGASEA,4.3261,261,$50 and over,"485 Seventh Avenue New York, NY  10018",Seafood
+101,STK - NYC - Meatpacking,4.41513,1513,$31 to $50,"26 Little West 12th St. New York, NY  10014",Steakhouse
+102,Esca,4.34874,4874,$30 and under,"402 West 43rd Street New York, NY  10036",Italian
+103,The Leopard at des Artistes,4.51329,1329,$50 and over,"1 West 67th St. New York, NY  10023",Italian
+104,21 Club,4.73262,3262,$50 and over,"21 West 52nd Street New York, NY  10019",American
+105,Benoit Restaurant and Wine Bar,4.5317,3170,$31 to $50,"60 West 55th Street New York, NY  10019",French
+106,DaDong NY,4.1342,342,$31 to $50,"3 Bryant Park New York, NY  10036",Chinese
+107,Lincoln Square Steak,4.51976,1976,$50 and over,"208 West 70th Street New York, NY  10023",Steakhouse
+108,Club A Steakhouse,4.83371,3371,$31 to $50,"240 East 58th Street New York, NY  10022",Steakhouse
+109,Anassa Taverna,4.5864,864,$31 to $50,"200 East 60th Street New York, NY  10022",Greek
+110,Cafe d'Alsace,4.41664,1664,$31 to $50,"1695 2nd Ave (Corner of  88th Street & 2nd Ave) New York, NY  10128",French
+111,Burke & Wills,4.6516,516,$31 to $50,"226 West 79th Street New York, NY  10024",Australian
+112,Boucherie - Park Avenue South,4.3128,128,$31 to $50,"225 Park Ave South New York, NY  10003-1604",French
+113,Natsumi Restaurant,4.5162,1620,$31 to $50,"226 West 50th Street New York, NY  10019",Japanese
+114,Armani Ristorante 5th Avenue,4.71087,1087,$31 to $50,"717 5th Avenue New York, NY  10022",Italian
+115,Brasserie Ruhlmann,4.5136,1360,$31 to $50,"45 Rockefeller Plaza New York, NY  10011",French American
+116,Docks Oyster Bar and Seafood Grill,4.42045,2045,$31 to $50,"633 Third Avenue New York, NY  10017",Seafood
+117,Chez Josephine,4.44702,4702,$31 to $50,"414 West 42nd Street New York, NY  10036",French
+118,Brasserie 8 1/2,4.53619,3619,$31 to $50,"9 West 57th St. New York, NY  10019",French
+119,Churrascaria Plataforma Brazilian Steakhouse,4.61918,1918,$50 and over,"316 West 49th Street New York, NY  10019",Brazilian Steakhouse
+120,Riverpark,4.63113,3113,$31 to $50,"450 East 29th Street New York, NY  10016",American
+121,Casa Nonna - Midtown,4.51721,1721,$31 to $50,"310 West 38th Street New York, NY  10010",Italian
+122,Farmer & The Fish - Gramercy,4.3463,463,$30 and under,"245 Park Ave S New York, NY  10003",Farm-to-table
+123,The Sea Grill,4.63392,3392,$31 to $50,"Rockefeller Center - 19 W.49th Street or via the concourse thru any Rockefeller Center entrance New York, NY  10020",Seafood
+124,Bar Italia,4.6454,454,$31 to $50,"768 Madison Avenue New York, NY  10065",Italian
+125,Strip House Midtown,4.51586,1586,$50 and over,"15 West 44th New York, NY  10036",Steak
+126,Maiella - LIC,4.61001,1001,$31 to $50,"46-10 Center Blvd. Long Island City, NY  11109",Italian
+127,Storico,4.3124,1240,$31 to $50,"New-York Historical Society 170 Central Park West New York, NY  10024",Contemporary Italian
+128,Naples 45 Ristorante E Pizzeria,4.4976,976,$30 and under,"200 Park Avenue New York, NY  10166",Italian
+129,La Sirena - The Dining Room,4.4724,724,$31 to $50,"88 Ninth Avenue New York, NY  10011",Italian
+130,Benjamin Steakhouse Prime,4.8356,356,$50 and over,"23 E 40th St. New York, NY  10016",American
+131,Tavern 62 by David Burke,4.4518,518,$31 to $50,"135 E 62nd St New York, NY  10065",American
+132,Michael's,4.71135,1135,$31 to $50,"24 West 55th Street New York, NY  10019",American
+133,Le Coq Rico,4.71035,1035,$31 to $50,"30 East 20th Street New York, NY  10003",Contemporary French
+134,Match 65 Brasserie (formerly Paris Match),4.5638,638,$31 to $50,"29 East 65th Street New York, NY  10065",French
+135,Barbetta Restaurant,4.23225,3225,$31 to $50,"321 West 46th Street New York, NY  10036",Italian
+136,Pera Mediterranean Brasserie,4.41657,1657,$31 to $50,"303 Madison Avenue New York, NY  10017",Mediterranean
+137,The Whitby Bar and Restaurant,4.6162,162,$31 to $50,"18 W 56th St New York, NY  10019",American
+138,FIG & OLIVE Uptown,4.4214,2140,$31 to $50,"808 Lexington Avenue New York, NY  10065",Mediterranean
+139,Monkey Bar,4.697,970,$50 and over,"60 East 54th Street New York, NY  10022",American
+140,Rock Center Cafe,4.43316,3316,$31 to $50,"Rockefeller Center 20. West 50th Street New York, NY  10020",Contemporary American
+141,Obica Mozzarella Bar  Pizza e Cucina,4.4546,546,$31 to $50,"928 Broadway New York, NY  10010",Italian
+142,Etcetera Etcetera,4.62714,2714,$31 to $50,"352 West 44th Street New York, NY  10036",Italian
+143,Café Centro,4.52006,2006,$31 to $50,"Metlife Building 200 Park Avenue New York, NY  10166",French
+144,Periyali,4.71781,1781,$31 to $50,"35 W. 20th St. New York, NY  10011",Greek
+145,Shun Lee West,4.2239,2390,$31 to $50,"43 West 65th Street New York, NY  10023",Chinese
+146,Haru Sushi - Amsterdam Ave,4.563,63,$31 to $50,"433 Amsterdam Avenue New York, NY  10024",Japanese
+147,Zengo - NYC,4.51909,1909,$31 to $50,"622 Third Avenue New York, NY  10017",Asian
+148,Manzo Ristorante - Eataly NYC Flatiron,4.5697,697,$31 to $50,"200 5th Avenue New York, NY  10010",Italian
+149,Bagatelle - NY,4.4429,429,$31 to $50,"One Little West 12th New York, NY  10014",French
+150,Trattoria Zero Otto Nove,4.6893,893,$31 to $50,"15 West 21st Street New York, NY  10010",Italian
+151,Ortzi by Jose Garces,4.525,250,$31 to $50,"120 W 41st St New York, NY  10036",Basque
+152,American Cut Steakhouse Midtown,4.6389,389,$31 to $50,"109 East 56th St. New York, NY  10022",Steakhouse
+153,Maloney & Porcelli,4.42222,2222,$50 and over,"37 E. 50th St. New York, NY  10022",American
+154,Royal 35 Steakhouse,4.7411,411,$50 and over,"1 E 35th St New York, NY  10016",Steakhouse
+155,Chazz Palminteri Italian Restaurant,4.5764,764,$50 and over,"30 W 46th Street New York, NY  10036",Italian
+156,Bodega Negra,4.6661,661,$50 and over,"355 West 16th street New York, NY  10011",Contemporary Mexican
+157,Dos Caminos - Park,4.4163,1630,$31 to $50,"373 Park Ave South at 27th Street New York, NY  10016",Mexican
+158,Barraca,4.475,750,$31 to $50,"81 Greenwich Ave New York, NY  10014",Spanish
+159,Gabriel's Bar & Restaurant,4.5776,776,$50 and over,"11 West 60th St. New York, NY  10023",Italian
+160,The Cecil Steakhouse,4.21213,1213,$31 to $50,"210 W 118th St New York, NY  10026",American
+161,Dos Caminos – Meatpacking,4.31291,1291,$31 to $50,"675 Hudson Street at 14th Street New York, NY  10014",Mexican
+162,Bobby Van's Grill - 50th Street,4.61744,1744,$31 to $50,"135 West 50th Street New York, NY  10020",American
+163,Untitled at the Whitney,4.61014,1014,$31 to $50,"99 Gansevoort Street New York, NY  10014",American
+164,Bedford & Co.,4.5379,379,$31 to $50,"118 East 40th Street New York, NY  10016",Contemporary American
+165,Pampano New York,4.5187,1870,$31 to $50,"209 E. 49th St. New York, NY  10017",Mexican
+166,Cipriani - Dolci,4.41112,1112,$31 to $50,"89 East 42nd Street Grand Central Terminal West Balcony New York, NY  10017",Italian
+167,Lugo Cucina,4.41445,1445,$31 to $50,"1 Penn Plaza New York, NY  10019",Italian
+168,Rouge Tomate Chelsea,4.519,190,$31 to $50,"126 W 18th St New York, NY  10011",Contemporary American
+169,Socarrat Paella Bar - Chelsea,4.61151,1151,$31 to $50,"259 W 19th St. New York, NY  10011",Spanish
+170,Bann Restaurant,4.61249,1249,$31 to $50,"350 West 50th Street New York, NY  10019",Korean
+171,Socarrat Paella Bar - Midtown East,4.5572,572,$31 to $50,"953 Second Avenue New York, NY  10022",Spanish
+172,High Street on Hudson,4.5368,368,$31 to $50,"637 hudson st New York, NY  10014",Contemporary American
+173,Hanjan,4.6259,259,$31 to $50,"36 West 26th Street New York, NY  10010",Korean
+174,Le Colonial NYC,4.4186,1860,$31 to $50,"149 E. 57th St New York, NY  10022",Vietnamese
+175,Delmonico's Kitchen,4.41203,1203,$31 to $50,"207 West 36th Street New York, NY  10018",American
+176,Morton's The Steakhouse - Midtown Manhattan,4.63031,3031,$50 and over,"551 5th Ave (entrance on 45th St.) New York, NY  10017",Steakhouse
+177,Ted's Montana Grill - NYC,4.3938,938,$31 to $50,"110 West 51st Street Time Life Bldg. New York, NY  10020",American
+178,Trattoria Italienne,4.796,96,$30 and under,"19 West 24th Street New York, NY  10010",Italian
+179,Felice 64 Wine Bar,4.7114,114,$31 to $50,"1166 1st avenue New York, NY  10065",Italian
+180,Shun Lee Palace,4.31308,1308,$31 to $50,"155 East 55th Street New York, NY  10022",Chinese
+181,Aretsky's Patroon,4.7908,908,$31 to $50,"160 East 46th Street New York, NY  10017",American
+182,Frankie and Johnnie's Steakhouse - 46th Street,4.355,550,$31 to $50,"320 West 46th New York, NY  10036",Steakhouse
+183,Davio's Northern Italian Steakhouse - Manhattan,4.6736,736,$31 to $50,"447 Lexington Ave. New York, NY  10017",Steakhouse
+184,Massoni,4.4191,191,$31 to $50,"11 E 31st St New York, NY  10016",Italian
+185,.Tarallucci e Vino Upper West Side,4.55,50,$31 to $50,"475 Columbus Ave New York, NY  10024",Italian
+186,Clement,4.7506,506,$31 to $50,"700 Fifth Avenue New York, NY  10019",American
+187,MIFUNE New York,4.455,55,$31 to $50,":​ 245 E, 44th Street New York, NY  10017",Japanese
+188,Sutton Inn,4.6685,685,$30 and under,"347 East 54th Street New York, NY  10022",American
+189,The House in Gramercy Park,4.51193,1193,$31 to $50,"121 East 17th St New York, NY  10003",American
+190,Cleo At MONDRIAN PARK AVENUE,4.568,68,$31 to $50,"444​ ​Park​ ​Avenue​ ​South New York, NY  10016",Mediterranean
+191,Naoki Takahashi,4.692,92,$31 to $50,"311 W 17th Street New York, NY  10011",Japanese
+192,Junoon Main Dining Room,4.52027,2027,$50 and over,"27 West 24th St. New York, NY  10010",Indian
+193,Brasserie Cognac,4.11476,1476,$31 to $50,"1740 Broadway New York, NY  10019",French
+194,Scampi,4.612,12,$30 and under,"30 W 18th St New York, NY  10011",Italian
+195,Society Cafe,4.4132,132,$31 to $50,"52 W 13th Street New York, NY  10011",American
+196,Suzuki,4.588,88,$50 and over,"114 W 47th Street New York, NY  10036",Japanese
+197,Inakaya,4.51087,1087,$31 to $50,"231 West 40th Street New York, NY  10018",Japanese
+198,Rossini's Restaurant,4.71132,1132,$31 to $50,"108 East 38 Street New York, NY  10016",Italian
+199,Charlie Palmer Steak,4.545,450,$31 to $50,"47 West 38th Street New York, NY  10018",Steakhouse
+200,Bocca,4.41561,1561,$30 and under,"39 East 19th Street New York, NY  10003",Italian
+201,NYY Steak Midtown- New York Yankees Steakhouse,4.7995,995,$31 to $50,"7 West 51st Street New York, NY  10019",Steakhouse
+202,Irvington,4.5209,209,$30 and under,"201 Park Ave S New York, NY 10003 New York, NY  10003",Contemporary American
+203,Charlie Palmer at The Knick,4.3315,315,$31 to $50,"6 Times Square New York, NY 10036 New York, NY  10036",Contemporary American
+204,Nick & Stef’s Steakhouse - New York,4.41931,1931,$31 to $50,"9 Penn Plaza New York, NY  10001",Steakhouse
+205,Altesi Ristorante,4.539,390,$31 to $50,"26 E 64th Street New York, NY  10065",Italian
+206,Giorgio's of Gramercy,4.72089,2089,$31 to $50,"27 East 21st Street New York, NY  10010",Contemporary American
+207,Perrine,4.5169,169,$31 to $50,"2 East 61st Street New York, NY  10065",French American
+208,La Fonda Del Sol,4.41141,1141,$31 to $50,"200 Park Avenue at East 44th Street MetLife Building New York, NY  10020",Spanish
+209,Morrell Wine Bar & Cafe,4.5761,761,$31 to $50,"1 Rockefeller Plaza New York, NY  10020",American
+210,Bobby Van's Grill Times Square,4.31095,1095,$50 and over,"120 W. 45th Street New York, NY  10036",American
+211,Kingside,4.1406,406,$31 to $50,"124 WEST 57TH ST New York, NY  10019",American
+212,I Trulli,4.52088,2088,$31 to $50,"122 East 27th Street New York, NY  10016",Italian
+213,Haru Hell's Kitchen,4.482,82,$31 to $50,"859 9th Ave New York, NY  10019",Japanese
+214,Bob's Steak & Chop House-New York,4.6117,117,$50 and over,"19 East 52nd St. New York, NY  10022",Steakhouse
+215,Il Postino,4.6473,473,$50 and over,"337 East 49th Street New York, NY  10017",Italian
+216,Restaurant Nippon,4.6368,368,$31 to $50,"155 East 52nd Street New York, NY  10022",Japanese
+217,Green Fig,3.9176,176,$31 to $50,"570 10th Ave New York, NY  10036",Mediterranean
+218,Tender Restaurant,4.3488,488,$31 to $50,"130 W 47th Street New York, NY  10036",American
+219,.Tarallucci e Vino Union Square,4.4582,582,$31 to $50,"15 East 18th Street New York, NY  10003",Italian
+220,Bobby Van's Steakhouse - 54th Street,4.7897,897,$31 to $50,"131 E. 54th Street New York, NY  10169",Steakhouse
+221,Astor Court,4.5263,263,$31 to $50,"2 East 55th Street New York, NY  10022",International
+222,Sofrito NYC,3.9566,566,$30 and under,"679 Riverside Dr. New York, NY  10031",Latin / Spanish
+223,Tarallucci e Vino NoMad,4.3116,116,$31 to $50,"44 East 28th Street New York, NY  10016",Italian
+224,Frankie & Johnnie's Steakhouse - Manhattan,4.41421,1421,$31 to $50,"32 West 37th New York, NY  10018",Steak
+225,The Shakespeare,4.6255,255,$31 to $50,"24 E. 39th Street New York, NY  10016",British
+226,Gaby Brasserie Française,4.3566,566,$31 to $50,"44 West 45th Street - Gaby Brasserie Française Gaby Brasserie Française New York, NY  10036",French
+227,SOUTHGATE Bar & Restaurant,4.3768,768,$31 to $50,"160 Central Park South New York, NY  10019",American
+228,Empire Steakhouse - 237 West 54 Street off of Broadway,4.4683,683,$50 and over,"237 West 54th Street New York, NY  10019",Steakhouse
+229,STATE Grill and Bar,4.3492,492,$31 to $50,"21 West 33rd Street New York, NY  10118",American
+230,The Lambs Club - Bar,4.6376,376,$50 and over,"132 W. 44th Street New York, NY  10036",Contemporary American
+231,Bocca Di Bacco (Chelsea - 20th St.),4.2445,445,$30 and under,"169 9th Avenue New York, NY  10011",Italian
+232,Amma,4.61336,1336,$31 to $50,"246 E. 51st Street New York, NY  10022",Indian
+233,Ben and Jack's Steakhouse 44th Street,4.6714,714,$50 and over,"219 East 44th Street New York, NY  10017",Steakhouse
+234,Jue Lan Club,4.0315,315,$31 to $50,"49 W 20th Street New York, NY  10011",Chinese
+235,Empire Steak House- East,4.4307,307,$50 and over,"151 East 50th Street New York, NY  10022",Steakhouse
+236,Bread & Tulips,4.5472,472,$30 and under,"365 Park Avenue South New York, NY  10016",Italian
+237,Tudor City Steak House,4.376,76,$31 to $50,"45 Tudor City Pl New York, NY  10017-7601",Steak
+238,Triomphe,4.41552,1552,$31 to $50,"49 West 44th Street New York, NY  10036",French American
+239,Blenheim,4.3388,388,$31 to $50,"283 West 12th Street New York, NY  10014",Contemporary American
+240,1 Darbar,4.4516,516,$30 and under,"152 E 46th Street New York, NY  10017",Indian
+241,Zio Ristorante,4.6546,546,$31 to $50,"17 West 19th St. New York, NY  10011",Italian
+242,Meet the Meat,4.8191,191,$31 to $50,"23-92 21st Street Astoria, NY  11105",Steakhouse
+243,The Morgan Dining Room,4.4351,351,$30 and under,"225 Madison Avenue New York, NY  10016",American
+244,Montebello Ristorante Italiano,4.4612,612,$31 to $50,"120 E. 56th St. New York, NY  10022",Italian
+245,2 Darbar Grill,4.5316,316,$30 and under,"157 East 55th Street New York, NY  10022",Indian
+246,Gin Parlour - InterContinental New York,3.75,50,$30 and under,"111 East 48th Street New York, NY  10017",Contemporary American
+247,Michael Jordan's The Steak House N.Y.C.,3.9216,2160,$31 to $50,"23 Vanderbilt Ave New York, NY  10017",Steakhouse
+248,Beauty & Essex- New York,4.65452,5452,$31 to $50,"146 Essex Street New York, NY  10002",Tapas / Small Plates
+249,Mercer Kitchen,4.54598,4598,$30 and under,"99 Prince Street New York, NY  10012",American
+250,The Dutch,4.62125,2125,$31 to $50,"131 Sullivan Street New York, NY  10000",American
+251,Lafayette,4.52128,2128,$31 to $50,"380 Lafayette Street New York, NY  10003",French
+252,Vandal,4.61829,1829,$50 and over,"199 Bowery New York, NY  10002",Tapas / Small Plates
+253,Gotham Bar and Grill,4.78591,8591,$50 and over,"12 East 12th Street New York, NY  10003",Contemporary American
+254,Il Buco Alimentari & Vineria,4.72011,2011,$31 to $50,"53 Great Jones St. New York, NY  10012",Italian
+255,Bar Primi,4.6794,794,$30 and under,"325 Bowery New York, NY  10003",Italian
+256,Lure New York,4.73269,3269,$31 to $50,"142 Mercer New York, NY  10012",Seafood
+257,Nix,4.7113,1130,$31 to $50,"72 University Place New York, NY  10003",Vegetarian
+258,Lupa,4.74526,4526,$31 to $50,"170 Thompson Street New York, NY  10012",Italian
+259,Claudette,4.6987,987,$30 and under,"24 Fifth Avenue New York, NY  10011",French
+260,Empellon Taqueria,4.61432,1432,$31 to $50,"230 West 4th New York, NY  10014",Mexican
+261,Perry St,4.83657,3657,$31 to $50,"176 Perry Street New York, NY  10014",Contemporary American
+262,Boucherie - West Village,4.4546,546,$31 to $50,"99 7th Avenue South New York, NY  10014",French
+263,Indochine,4.61428,1428,$50 and over,"430 Lafayette Street New York, NY  10003",Vietnamese
+264,El Vez New York,4.6747,747,$30 and under,"259 Vesey Street New York, NY  10282",Mexican
+265,Public Kitchen,4.5298,298,$31 to $50,"215 Chrystie St New York, NY  10002-1239","Global, International"
+266,Tamarind - Tribeca,4.72458,2458,$31 to $50,"99 Hudson Street New York, NY  10013",Indian
+267,The Stanton Social,4.6515,5150,$31 to $50,"99 Stanton Street New York, NY  10002",Tapas / Small Plates
+268,Hearth,4.7227,2270,$50 and over,"403 East 12 Street New York, NY  10009",American
+269,Sarabeth's TriBeCa,4.41598,1598,$30 and under,"339 Greenwich Street New York, NY  10013",American
+270,Leuca,4.6491,491,$31 to $50,"111 N 12th St Brooklyn, NY  11249",Italian
+271,Sant Ambroeus SoHo,4.8257,257,$31 to $50,"265 Lafayette Street New York, NY  10012",Italian
+272,Il Cantinori,4.71431,1431,$50 and over,"32 East 10th Street New York, NY  10003",Italian
+273,MR CHOW - TriBeca,4.5152,1520,$50 and over,"121 Hudson Street New York, NY  10013",Chinese
+274,Narcissa Restaurant,4.6759,759,$31 to $50,"25 Cooper Square New York, NY  10003",Contemporary American
+275,Il Mulino New York - Downtown,4.883,830,$50 and over,"86 West 3rd Street New York, NY  10012",Italian
+276,Sant Ambroeus - West Village,4.7505,505,$31 to $50,"259 West 4th Street New York, NY  10014",Italian
+277,Pig and Khao,4.7979,979,$31 to $50,"68 Clinton Street New York, NY  10002",Southeast Asian
+278,Little Park,4.678,780,$31 to $50,"85 West Broadway New York, NY  10007",Contemporary American
+279,Neta,4.6569,569,$50 and over,"61 West 8th Street New York, NY  10011",Japanese
+280,Tutto Il Giorno -Tribeca,4.7315,315,$50 and over,"114 Franklin Street New York, NY  10013",Italian
+281,Bobo Restaurant,4.71108,1108,$30 and under,"181 West 10th Street New York, NY  10014",French
+282,Rafele,4.51325,1325,$31 to $50,"29 Seventh Ave. South New York, NY  10014",Italian
+283,Essex,4.32167,2167,$30 and under,"119 Rivington St New York, NY  10002",Fusion / Eclectic
+284,Tiny's & the Bar Upstairs,4.6663,663,$31 to $50,"135 West Broadway New York, NY  10002",Contemporary American
+285,BAAR BAAR,4.5115,115,$31 to $50,"13 E 1st St New York, NY  10003",Contemporary Indian
+286,The Musket Room,4.8768,768,$31 to $50,"265 Elizabeth St. CI New York, NY  10012",International
+287,Delmonico's,4.73792,3792,$50 and over,"56 Beaver Street New York, NY  10004",Steakhouse
+288,Root & Bone,4.6704,704,$31 to $50,"200 E 3rd Street New York, NY  10009",Southern
+289,Bâtard,4.6913,913,$50 and over,"239 West Broadway New York, NY  10013",Modern European
+290,Left Bank NYC,4.6615,615,$31 to $50,"117 Perry Street New York, NY  10014",American
+291,American Cut Steakhouse,4.6791,791,$31 to $50,"363 Greenwich Street New York, NY  10013",Steakhouse
+292,Khe-Yo,4.764,640,$31 to $50,"157 Duane St. New York, NY  10013",Laotian
+293,Toloache Thompson St.,4.5381,381,$31 to $50,"205 Thompson St. New York, NY  10012",Mexican
+294,Nobu Downtown | Bar & Lounge,4.733,33,$50 and over,"195 Broadway New York, NY  10007",Japanese
+295,Feast,4.6554,554,$31 to $50,"102 3rd Ave. New York, NY  10003",Contemporary American
+296,Temple Court,4.6392,392,$31 to $50,"5 Beekman Street New York, NY  10003",American
+297,Pera Soho,4.357,570,$31 to $50,"54 Thompson Street New York, NY  10012",Mediterranean
+298,Tribeca Grill,4.44361,4361,$31 to $50,"375 Greenwich St New York, NY  10013",American
+299,Fifty,4.6325,325,$31 to $50,"50 Commerce St New York, NY  10014",Contemporary American
+300,Dos Caminos - SoHo,4.2944,944,$31 to $50,"475 West Broadway at Houston Street New York, NY  10012",Mexican
+301,Noreetuh,4.7434,434,$31 to $50,"128 1st Avenue New York, NY  10009",American
+302,El Toro Blanco,4.2518,518,$31 to $50,"257 Sixth Avenue New York, NY  10014",Mexican
+303,SAN CARLO  Osteria Piemonte,4.7314,314,$31 to $50,"90 Thompson St New York, NY  10012",Italian
+304,The Library at the Public,4.2801,801,$30 and under,"425 Lafayette Street New York, NY  10003",American
+305,CUT By Wolfgang Puck at FS Downtown New York,4.6364,364,$31 to $50,"99 Church St New York, NY  10007",Steak
+306,Osteria della Pace - Eataly NYC Downtown,4.4294,294,$31 to $50,"101 Liberty St Floor 3 New York, NY  10006",Italian
+307,Tuome,4.7385,385,$31 to $50,"536 E. 5th St. New York, NY  10009",Contemporary American
+308,Barano,4.7234,234,$30 and under,"26 Broadway Brooklyn, NY  11249",Italian
+309,Buttermilk Channel,4.7524,524,$31 to $50,"524 Court Street Brooklyn, NY  11231",American
+310,La Loteria,4.6245,245,$31 to $50,"29 7th Ave South New York, NY  10014",Contemporary Mexican
+311,Il Mulino Prime,4.5272,272,$50 and over,"331 West Broadway New York, NY  10013",Italian
+312,Socarrat Paella Bar - Nolita,4.5634,634,$31 to $50,"284 Mulberry St. New York, NY  10012",Spanish
+313,La Sirene,4.61442,1442,$31 to $50,"558  Broome Street (closer to Varick) New York, NY  10013",French
+314,Fonda - East Village,4.5529,529,$31 to $50,"40 Avenue B New York, NY  10009",Contemporary Mexican
+315,Kingsley,4.5327,327,$31 to $50,"190 Avenue B New York, NY  10009",Contemporary American
+316,Porsena,4.6338,338,$30 and under,"21 East 7th Street New York, NY  10003",Italian
+317,The Palm Tribeca,4.6156,1560,$50 and over,"206 West Street New York, NY  10282",Steakhouse
+318,Nickel & Diner,4.6142,142,$31 to $50,"1 Howard St New York, NY  10013",American
+319,David Burke Kitchen,4.22612,2612,$31 to $50,"23 Grand Street New York, NY  10013",American
+320,Il Cortile Restaurant,4.6798,798,$31 to $50,"125 Mulberry Street New York, NY  10013",Italian
+321,Felice 15 Gold Street,4.6454,454,$31 to $50,"15 Gold Street New York, NY  10038",Italian
+322,Cipriani - Wall Street,4.6537,537,$31 to $50,"55 Wall Street New York, NY  10015",Italian
+323,Rosa Mexicano - TriBeCa,4.2247,247,$31 to $50,"41 Murray Street New York, NY  10007",Mexican
+324,North Square,4.61681,1681,$31 to $50,"103 Waverly Place New York, NY  10011",American
+325,Edi and The Wolf,4.5306,306,$30 and under,"102 Avenue C New York, NY  10009",Austrian
+326,Gran Morsi,4.6266,266,$31 to $50,"22 Warren Street New York, NY  10007",Italian
+327,Bistrot Leo,4.316,16,$31 to $50,"60 Thompson Street New York, NY  10012",French
+328,Reserve Cut at Setai,4.7492,492,$50 and over,"40 Broad Street, 2nd Level New York, NY  10004",Kosher
+329,Rice & Gold,4.2128,128,$31 to $50,"50 Bowery New York, NY  10013",Asian
+330,Thalassa,4.61224,1224,$31 to $50,"179 Franklin Street New York, NY  10013",Seafood
+331,Strip House Speakeasy,4.6222,222,$50 and over,"11 East 12th Street New York, NY  10003",Steakhouse
+332,Greenwich Steakhouse,4.4148,148,$50 and over,"62 Greenwich Ave New York, NY  10011",Steakhouse
+333,Schilling,4.4234,234,$30 and under,"109 Washington Street New york, NY  10028",Austrian
+334,Morton's The Steakhouse - World Trade Center,4.6541,541,$50 and over,"136 Washington New York, NY  10006",Steakhouse
+335,MarkJoseph Steakhouse,4.7814,814,$50 and over,"261 Water Street New York, NY  10038",Steakhouse
+336,The Tuck Room- New York,4.116,160,$30 and under,"11 Fulton Street New York, NY  10038",Gastro Pub
+337,Talde,4.4216,216,$30 and under,"369 7th Avenue Brooklyn, NY  11215",Asian
+338,Bar Freud,4.4196,196,$31 to $50,"506 LaGuardia Place New York, NY  10012",Austrian
+339,Yellow Magnolia Café,4.391,91,$30 and under,"Brooklyn Botanic Garden 990 Washington Ave Brooklyn, NY  11225",American
+340,Benchmark Restaurant,4.5836,836,$31 to $50,"339A Second St. Brooklyn, NY  11215",Contemporary American
+341,Altesi Downtown,4.5558,558,$31 to $50,"200 Spring Street New York, NY  10012",Italian
+342,Harvey @ The Williamsburg Hotel,4.335,35,$30 and under,"96 Wythe Ave Brooklyn, NY  11249",Contemporary American
+343,ATRIO Wine Bar & Restaurant,4.6215,215,$31 to $50,"102 North End Avenue New York, NY  10282",Contemporary American
+344,Bobby Van's Steakhouse - Broad Street,4.4768,768,$31 to $50,"25 Broad Street New York, NY  10004",Steakhouse
+345,Brasserie Seoul,3.82,20,$30 and under,"300 Schermerhorn St. Brooklyn, NY  11217",Contemporary French
+346,Greenhouse Cafe,4.686,86,$30 and under,"7717 3rd Avenue Brooklyn, NY  11209-3001",Continental
+347,"Lorenzo's Restaurant, Bar & Caberet - Hilton Garden Inn - SI",4.511,110,$31 to $50,"1100 South Ave. Staten Island, NY  10314",Italian
