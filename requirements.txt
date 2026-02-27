@@ -1,0 +1,21 @@
+# Core
+pandas
+numpy
+scikit-learn
+
+# NLP
+spacy
+sentence-transformers
+openai
+langchain
+
+# Web App
+streamlit
+streamlit-folium
+
+# Visualization
+matplotlib
+seaborn
+
+# API
+requests
